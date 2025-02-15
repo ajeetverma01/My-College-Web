@@ -1,6 +1,6 @@
-# My College Web 🎓🌐
+# My College Website 🎓🌐
 
-**My College Web** is a static, one-page website designed to highlight key features of the college, including its history, placements, faculty, facilities, campus, legacy, founder, and courses offered. This project aims to demonstrate my web development skills, showcasing a self-made template with modern design principles. Built using HTML, CSS, and JavaScript, the website offers a clean, **responsive layout** and user-friendly navigation, ensuring a smooth experience across both desktop and mobile devices. 📱💻
+**My College Website** is a static, one-page website designed to highlight key features of the college, including its history, placements, faculty, facilities, campus, legacy, founder, and courses offered. This project aims to demonstrate my web development skills, showcasing a **self-made template** with modern design principles. Built using HTML, CSS, and JavaScript, the website offers a clean, **responsive layout** and user-friendly navigation, ensuring a smooth experience across both desktop and mobile devices. 📱💻
 
 ## Features 🌟
 
@@ -29,10 +29,15 @@ To view this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
     ```sh
-     git clone https://github.com/yourusername/my-college-web.git
+     git clone https://github.com/ajeetverma01/My-College-Web.git
     ```
 2. Navigate to the project folder:
  ```sh
-    cd my-college-web
+    cd My-College-Web
 ```
 3. Open the index.html file in your web browser.
+
+## 📞 Contact
+For any queries, feel free to reach out:
+- **GitHub**: [Ajeet Verma](https://github.com/ajeetverma01)
+- 📧 **Email**: av401402@gmail.com
